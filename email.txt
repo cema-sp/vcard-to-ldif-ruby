@@ -1,0 +1,29 @@
+To: emailaddresses
+Content-Type: text/plain; charset=utf-8
+Subject: Почтовый ящик
+
+Добрый день,
+
+Для вас создан новый почтовый ящик в домене example.com.
+
+Ссылки для входа:
+* https://mx.example.com/mail
+* https://mx.example.com/SOGo
+
+Учетные данные:
+* Логин: emaillogin
+* Пароль: emailpassword
+
+Для смены пароля войдите в свою учетную запись по адресу https://mx.example.com/mail, 
+в верхнем правом углу экрана кликните по кнопке "Настройки". 
+В открывшемся представлении выберите пункт "Пароль" и измените пароль учетной записи.
+
+Инструкции по настройке клиентского ПО (на английском):
+* Android: http://www.iredmail.org/docs/activesync.android.html
+* BlackBerry: http://www.iredmail.org/docs/activesync.bb10.html
+* Apple iOS: http://www.iredmail.org/docs/activesync.ios.html
+* MS Outlook: http://www.iredmail.org/docs/activesync.outlook.html
+* Thunderbird: http://www.iredmail.org/docs/configure.thunderbird.html
+
+--------------------------------------------------------------------------------------
+Просьба по всем вопросам обращаться по адресу admin@example.com.

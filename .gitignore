@@ -9,3 +9,6 @@ send.sh
 
 # vcards
 vcards/**/*
+
+# keep .gitkeep
+!/**/*.gitkeep
