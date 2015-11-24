@@ -1,0 +1,11 @@
+# generated LDIF
+30_vcards.ldif
+
+# generated CSV
+mail_users.csv
+
+# generated bash script
+send.sh
+
+# vcards
+vcards/**/*
